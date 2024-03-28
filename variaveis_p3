@@ -1,0 +1,24 @@
+# Inteiro
+idade = 25
+
+# Real
+altura = 1.83
+
+# String
+nome = "SENAI"
+
+# Booleano
+sinalizador = True # False
+
+# Lista
+frutas ={"pera", "laranja",  "abacaxi"}
+
+# Tupla
+
+dias_semana = ("seg", "ter", "qua", "qui", "sex", "sab", "dom")
+
+# Dicionario
+pessoa = {
+     "nome", "SENAI",
+     "endereço": "Rua Luis Lacava"
+     
